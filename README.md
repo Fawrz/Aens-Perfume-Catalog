@@ -1,10 +1,8 @@
 # AENS PERFUME - Landing Page & Product Catalog
 
-Ini adalah website landing page dan katalog produk yang responsif untuk AENS PERFUME, sebuah brand parfum fiktif. Proyek ini dibangun dengan HTML, CSS, dan JavaScript murni (Vanilla JS) untuk menampilkan koleksi produk secara elegan dan interaktif.
+Ini adalah website landing page dan katalog produk yang responsif untuk AENS PERFUME. Proyek ini dibangun dengan HTML, CSS, dan JavaScript murni (Vanilla JS) untuk menampilkan koleksi produk secara elegan dan interaktif.
 
-**➡️ Lihat Live Demo:** [**https://NAMA-USERNAME-ANDA.github.io/NAMA-REPOSITORI-ANDA/**](https://NAMA-USERNAME-ANDA.github.io/NAMA-REPOSITORI-ANDA/)
-
-*(**Catatan:** Ganti `NAMA-USERNAME-ANDA` dan `NAMA-REPOSITORI-ANDA` dengan detail GitHub Anda agar linknya berfungsi)*
+**➡️ Lihat Live Demo:** [**https://fawrz.github.io/Aens-Perfume-Catalog/**](https://fawrz.github.io/Aens-Perfume-Catalog/)
 
 ![Pratinjau Website AENS PERFUME](https://i.imgur.com/k2H9bY7.png)
 
@@ -29,12 +27,12 @@ Untuk menjalankan proyek ini di mesin lokal Anda, ikuti langkah-langkah berikut:
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/NAMA-USERNAME-ANDA/NAMA-REPOSITORI-ANDA.git](https://github.com/NAMA-USERNAME-ANDA/NAMA-REPOSITORI-ANDA.git)
+    git clone [https://github.com/Fawrz/Aens-Perfume-Catalog.git](https://github.com/Fawrz/Aens-Perfume-Catalog.git)
     ```
 
 2.  **Masuk ke direktori proyek:**
     ```bash
-    cd NAMA-REPOSITORI-ANDA
+    cd Aens-Perfume-Catalog
     ```
 
 3.  **Buka file `Index.html` di browser Anda.**
@@ -53,7 +51,3 @@ Untuk menjalankan proyek ini di mesin lokal Anda, ikuti langkah-langkah berikut:
 ├── script.js
 └── style.css
 ```
-
----
-
-Proyek ini dibuat sebagai bagian dari tugas Ujian Tengah Semester (UTS).
