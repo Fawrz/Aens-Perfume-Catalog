@@ -4,8 +4,6 @@ Ini adalah website landing page dan katalog produk yang responsif untuk AENS PER
 
 **➡️ Lihat Live Demo:** [**https://fawrz.github.io/Aens-Perfume-Catalog/**](https://fawrz.github.io/Aens-Perfume-Catalog/)
 
-![Pratinjau Website AENS PERFUME](https://i.imgur.com/k2H9bY7.png)
-
 ## ✨ Fitur Utama
 
 -   **Desain Responsif**: Tampilan dioptimalkan untuk berbagai ukuran layar, mulai dari desktop hingga perangkat mobile.
