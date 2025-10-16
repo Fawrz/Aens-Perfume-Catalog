@@ -17,7 +17,7 @@ Ini adalah website landing page dan katalog produk yang responsif untuk AENS PER
 
 -   **HTML5**: Untuk struktur dan konten website.
 -   **CSS3**: Untuk styling, layout (Flexbox & Grid), animasi, dan desain responsif.
--   **JavaScript (Vanilla JS)**: Untuk menangani semua interaktivitas, seperti membuka/menutup modal, navigasi hamburger, dan efek scroll.
+-   **JavaScript**: Untuk menangani semua interaktivitas, seperti membuka/menutup modal, navigasi hamburger, dan efek scroll.
 
 ## 🚀 Cara Menjalankan Secara Lokal
 
