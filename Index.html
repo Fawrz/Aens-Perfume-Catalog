@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AENS PERFUME - Fragrance Catalog</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="AENS_LOGO-removebg-preview.png" class="logo-icon" alt="AENS PERFUME Logo">
+            </div>
+            <ul id="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#catalog">Products</a></li>
+                <li><a href="#about-subscribe">About</a></li>
+            </ul>
+            <div id="hamburger-btn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero" id="home">
+            <div class="hero-content">
+                <h1>Discover Your Signature Scent</h1>
+                <p>Hadir dengan aroma eksklusif yang tahan lama, untuk menemani aktivitas anda</p>
+                <a href="#catalog" class="cta-button">Explore Collection</a>
+            </div>
+        </section>
+
+        <section id="catalog" class="product-catalog">
+            <h2 class="section-title">Our Collection</h2>
+            <div class="product-grid">
+                <div class="product-card" data-id="blue-night">
+                    <div class="product-image">
+                        <img src="BLUE NIGHT.jpg" alt="Botol parfum AENS varian Blue Night">
+                    </div>
+                    <div class="product-info">
+                        <h3>Blue Night</h3>
+                        <p>Kombinasi aroma fresh, aromatic, cool</p>
+                    </div>
+                </div>
+                <div class="product-card" data-id="cool-man">
+                    <div class="product-image">
+                        <img src="COOLMAN.jpg" alt="Botol parfum AENS varian Cool Man">
+                    </div>
+                    <div class="product-info">
+                        <h3>Cool Man</h3>
+                        <p>Kombinasi Elegant & Maskulin</p>
+                    </div>
+                </div>
+                <div class="product-card" data-id="lucky">
+                    <div class="product-image">
+                        <img src="LUCKY.jpg" alt="Botol parfum AENS varian Lucky">
+                    </div>
+                    <div class="product-info">
+                        <h3>Lucky</h3>
+                        <p>Kombinasi Segar, Elegant, Kalem, Cool</p>
+                    </div>
+                </div>
+                 <div class="product-card" data-id="pinkfon">
+                    <div class="product-image">
+                        <img src="PINKFON.jpg" alt="Botol parfum AENS varian Pinkfon">
+                    </div>
+                    <div class="product-info">
+                        <h3>Pinkfon</h3>
+                        <p>Kombinasi Aroma feminim dan manis</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about-subscribe" class="about-subscribe-section">
+            <div class="about-subscribe-container">
+                <div class="about-content">
+                    <h2 class="section-title">The Art of Perfumery</h2>
+                    <p>AENS PERFUME lahir dari kecintaan dalam menciptakan wewangian yang unik dan berkesan. Setiap botol merupakan karya seni yang dibuat dengan bahan-bahan terbaik dari seluruh dunia untuk membangkitkan emosi dan menciptakan kesan yang abadi.</p>
+                </div>
+                <div class="subscribe-content">
+                    <h2>Join Our World</h2>
+                    <p>Stay up-to-date with our latest news, exclusive offers, and promotions.</p>
+                    <form class="subscribe-form">
+                        <input type="email" placeholder="Enter your email address" required>
+                        <button type="submit">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2025 AENS PERFUME. All Rights Reserved.</p>
+        <p>Follow us on <a href="#">Instagram</a></p>
+    </footer>
+
+    <div class="modal-overlay" id="product-modal-overlay">
+        <div class="modal-content" id="product-modal-content">
+            <button class="modal-close" id="modal-close-btn">&times;</button>
+            <div class="modal-body">
+                <div class="modal-image">
+                    <img src="" alt="Detail Produk" id="modal-img">
+                </div>
+                <div class="modal-details">
+                    <h2 id="modal-title"></h2>
+                    <p id="modal-description"></p>
+                    <div class="fragrance-notes">
+                        <h3>Fragrance Notes</h3>
+                        <div class="notes-group">
+                            <strong>Top Notes:</strong>
+                            <span id="modal-top-notes"></span>
+                        </div>
+                        <div class="notes-group">
+                            <strong>Middle Notes:</strong>
+                            <span id="modal-middle-notes"></span>
+                        </div>
+                        <div class="notes-group">
+                            <strong>Base Notes:</strong>
+                            <span id="modal-base-notes"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
