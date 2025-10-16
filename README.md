@@ -2,7 +2,7 @@
 
 Ini adalah website landing page dan katalog produk yang responsif untuk AENS PERFUME. Proyek ini dibangun dengan HTML, CSS, dan JavaScript untuk menampilkan koleksi produk secara elegan dan interaktif.
 
-**➡️ Lihat Live Demo:** [**https://fawrz.github.io/Aens-Perfume-Catalog/**](https://fawrz.github.io/Aens-Perfume-Catalog/)
+**➡️ Lihat Live Demo:** [**kelompok2.2024.my.id/**](kelompok2.2024b.my.id/)
 
 ## ✨ Fitur Utama
 
