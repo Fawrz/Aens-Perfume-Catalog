@@ -1,6 +1,6 @@
 # AENS PERFUME - Landing Page & Product Catalog
 
-Ini adalah website landing page dan katalog produk yang responsif untuk AENS PERFUME. Proyek ini dibangun dengan HTML, CSS, dan JavaScript murni (Vanilla JS) untuk menampilkan koleksi produk secara elegan dan interaktif.
+Ini adalah website landing page dan katalog produk yang responsif untuk AENS PERFUME. Proyek ini dibangun dengan HTML, CSS, dan JavaScript untuk menampilkan koleksi produk secara elegan dan interaktif.
 
 **➡️ Lihat Live Demo:** [**https://fawrz.github.io/Aens-Perfume-Catalog/**](https://fawrz.github.io/Aens-Perfume-Catalog/)
 
